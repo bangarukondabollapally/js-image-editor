@@ -19,7 +19,7 @@ A simple image editor built with vanilla HTML, CSS, and JavaScript using the HTM
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://js-image-editor-eight.vercel.app/)
+[View Live Demo](https://js-image-editor-lime.vercel.app/)
 
 ## 🛠️ Built With
 
