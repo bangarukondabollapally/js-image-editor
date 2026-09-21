@@ -2,8 +2,10 @@
 
 A simple image editor built with vanilla HTML, CSS, and JavaScript using the HTML Canvas API - no frameworks, no libraries.
 
+#### Original Image
 ![Image Editor Preview](images/before.png)
 
+#### Edited Image
 ![Image Editor Preview](images/after.png)
 
 ## ✨ Features
